@@ -1,0 +1,130 @@
+[
+    {
+        "Ticker": "AMMA",
+        "Entry": "0.43",
+        "Exit": "0.46",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "AMRN",
+        "Entry": "3.05",
+        "Exit": "3.25",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "APRI",
+        "Entry": "0.42",
+        "Exit": "0.44",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "LODE",
+        "Entry": "0.265",
+        "Exit": "0.28",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "NAKD",
+        "Entry": "6.75",
+        "Exit": "7.15",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "VVPR",
+        "Entry": "2.43",
+        "Exit": "2.6",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "UUUU",
+        "Entry": "2.37",
+        "Exit": "2.5",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "ZFGN",
+        "Entry": "9.78",
+        "Exit": "10.15",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "TROV",
+        "Entry": "0.74",
+        "Exit": "0.77",
+        "EntryGreater": false,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "IDXG",
+        "Entry": "0.82",
+        "Exit": "1.2",
+        "EntryGreater": false,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "UEPS",
+        "Entry": "9.2",
+        "Exit": "10",
+        "EntryGreater": false,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "CSLT",
+        "Entry": "4.3",
+        "Exit": "4.7",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "SSW",
+        "Entry": "9.55",
+        "Exit": "10",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "SESN",
+        "Entry": "2.03",
+        "Exit": "2.21",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "MBT",
+        "Entry": "8.8",
+        "Exit": "9.5",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    },
+    {
+        "Ticker": "ONCS",
+        "Entry": "1.45",
+        "Exit": "1.6",
+        "EntryGreater": true,
+        "TriggeredEntry": false,
+        "TriggeredExit": false
+    }
+]
